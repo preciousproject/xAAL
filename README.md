@@ -24,6 +24,9 @@ See license file.
 
 ## References
 [1] xAAL project webpage, [http://recherche.telecom-bretagne.eu/xaal/](http://recherche.telecom-bretagne.eu/xaal/).
+
 [2] PRECIOUS project webpage,[http://www.thepreciousproject.eu/)](http://www.thepreciousproject.eu/).
+
 [3] C. Lohr, P. Tanguy, J. Kerdreux, "xAAL: A Distributed Infrastructure for Heterogeneous Ambient Devices", Journ    al of Intelligent Systems. Volume 24, Issue 3, Pages 321–331, ISSN (Online) 2191-026X, ISSN (Print) 0334-1860,     DOI: 10.1515/jisys-2014-0144, March 2015, [http://www.degruyter.com/view/j/jisys.2015.24.issue-3/jisys-2014-0    144/jisys-2014-0144.xml](http://www.degruyter.com/view/j/jisys.2015.24.issue-3/jisys-2014-0144/jisys-2014-0144    .xml).
+
 [4] P. Tanguy (2015, July). "Toward a transparent sensors/actuators layer at home". Retrieve from [http://www.thepreciousproject.eu/?p=653](http://www.thepreciousproject.eu/?p=653).

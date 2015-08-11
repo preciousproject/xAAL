@@ -14,7 +14,7 @@ Public access is read-only:
 ```
 svn co https://svn.telecom-bretagne.eu/svn-public/xAAL/
 ```
-Motivated contributors are invited to contact us (see below) for a read-write access on:
+Motivated contributors are invited to contact us (see [1]) for a read-write access on:
 ```
 svn co https://svn.telecom-bretagne.eu/repository/xAAL/
 ```
